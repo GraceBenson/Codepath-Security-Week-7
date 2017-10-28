@@ -52,4 +52,23 @@ https://gfycat.com/gifs/detail/WhirlwindRealisticHochstettersfrog
 Source: 
 https://sumofpwn.nl/advisory/2016/wordpress_audio_playlist_functionality_is_affected_by_cross_site_scripting.html
 
+# Vulnerability 3
+# WordPress 3.7-4.4 - Authenticated Cross-Site Scripting (XSS)
+
+WordPress version tested: 4.0
+Vulnerability type: XSS
+
+Steps in order to recreate:
+1) Comment on any post with a link
+2) After the link add an alert script at the end of it for example: svg onload=alert(1)
+3) Post comment
+
+GIF Walkthrough:
+https://gfycat.com/gifs/detail/UnimportantWideAnnelid
+
+Sources:
+https://github.com/WordPress/WordPress/commit/7ab65139c6838910426567849c7abed723932b87
+https://wpvulndb.com/vulnerabilities/8358
+
+
 
