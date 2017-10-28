@@ -32,7 +32,6 @@ Steps in order to recreate:
 
 GIF Walkthrough:
 https://gfycat.com/gifs/detail/BlindBlindBellsnake
-https://i.imgur.com/d79UGPj.gifv
 
 Source:
 https://hackerone.com/reports/203515
