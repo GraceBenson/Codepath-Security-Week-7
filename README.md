@@ -5,6 +5,7 @@ Week 7 Project: WordPress vs. Kali
 # WordPress 2.5-4.6 - Authenticated Stored Cross-Site Scripting via Image Filename
 
 WordPress version tested in: 4.2.2
+
 Vulnerability type: XSS
 
 Steps in order to recreate:
@@ -39,6 +40,7 @@ https://hackerone.com/reports/203515
 # WordPress 3.6.0-4.7.2 - Authenticated Cross-Site Scripting (XSS) via Media File Metadata
 
 WordPress version tested: 4.2.2
+
 Vulnerability type: XSS
 
 Steps in order to recreate:
