@@ -13,6 +13,6 @@ Steps:
 2) Go to add media and try to upload this file into media
 
 GIF Walkthrough:
-https://thumbs.gfycat.com/BlindBlindBellsnake-size_restricted.gif
+<iframe src='https://gfycat.com/ifr/BlindBlindBellsnake' frameborder='0' scrolling='no' width='1920' height='1020' allowfullscreen></iframe>
 
 Source: https://hackerone.com/reports/203515
