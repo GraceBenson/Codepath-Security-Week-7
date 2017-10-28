@@ -8,7 +8,7 @@ WordPress version tested in: 4.2.2
 Vulnerability type: XSS
 
 Steps in order to recreate:
-1) Rename an image to have the following name <i m g src= a o n e rror= alert(document.cookie)>.jpg
+1) Rename an image to have the following name <i m g src= a o n e rror= alert(document.cookie) >.j p dg
 2) Upload the image to WordPress
 3) Create a post and add this image into the post
 4) Change the attachment display settings to "Attachment page"
@@ -26,7 +26,7 @@ WordPress version tested in: 4.2.2
 Vulnerability type: XSS
 
 Steps in order to recreate:
-1) Find/create a file and name it Dinosaurs secret life<i m g src=x o n e r ror=alert(1)>.png
+1) Find/create a file and name it Dinosaurs secret life<i m g src=x o n e r ror=alert(1)>.p n dg
 2) Go to add media and try to upload this file into media
 
 GIF Walkthrough:
