@@ -13,5 +13,6 @@ Steps:
 2) Go to add media and try to upload this file into media
 
 GIF Walkthrough:
-<div class='gfyitem' data-id=BlindBlindBellsnake></div>
+https://gfycat.com/gifs/detail/BlindBlindBellsnake
+
 Source: https://hackerone.com/reports/203515
