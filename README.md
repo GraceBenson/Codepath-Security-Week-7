@@ -56,6 +56,7 @@ https://sumofpwn.nl/advisory/2016/wordpress_audio_playlist_functionality_is_affe
 # WordPress 3.7-4.4 - Authenticated Cross-Site Scripting (XSS)
 
 WordPress version tested: 4.0
+
 Vulnerability type: XSS
 
 Steps in order to recreate:
