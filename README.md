@@ -2,8 +2,8 @@
 Week 7 Project: WordPress vs. Kali
 
 
-Vulnerability 1
-WordPress 3.3-4.7.4 - Large File Upload Error XSS
+# Vulnerability 1
+# WordPress 3.3-4.7.4 - Large File Upload Error XSS
 
 WordPress version tested in: 4.2.2
 Vulnerability type: XSS
@@ -17,8 +17,8 @@ https://gfycat.com/gifs/detail/BlindBlindBellsnake
 
 Source: https://hackerone.com/reports/203515
 
-Vulnerability 2
-WordPress 3.6.0-4.7.2 - Authenticated Cross-Site Scripting (XSS) via Media File Metadata
+# Vulnerability 2
+# WordPress 3.6.0-4.7.2 - Authenticated Cross-Site Scripting (XSS) via Media File Metadata
 
 WordPress version tested: 4.2.2
 Vulnerability type: XSS
