@@ -39,7 +39,7 @@ https://hackerone.com/reports/203515
 # Vulnerability 2
 # WordPress 3.6.0-4.7.2 - Authenticated Cross-Site Scripting (XSS) via Media File Metadata
 
-WordPress version tested: 4.2.2
+WordPress version tested: 4.2.3
 
 Vulnerability type: XSS
 
