@@ -15,7 +15,7 @@ Steps in order to recreate:
 4) Change the attachment display settings to "Attachment page"
 
 GIF Walkthrough:
-https://gfycat.com/gifs/detail/PastDishonestLeafbird
+https://gfycat.com/gifs/detail/WhimsicalLeanGlowworm
 
 Source:
 https://sumofpwn.nl/advisory/2016/persistent_cross_site_scripting_vulnerability_in_wordpress_due_to_unsafe_processing_of_file_names.html
