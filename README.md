@@ -27,7 +27,7 @@ WordPress version tested in: 4.2.2
 Vulnerability type: XSS
 
 Steps in order to recreate:
-1) Find/create a file and name it Dinosaurs secret life img src=x onerror=alert(1)>.png
+1) Find/create a file over 20mb and name it Dinosaurs secret life img src=x onerror=alert(1)>.png
 2) Go to add media and try to upload this file into media
 
 GIF Walkthrough:
